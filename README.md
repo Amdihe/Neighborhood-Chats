@@ -15,4 +15,4 @@ What makes your project stand out?
 2 API’s that have been implemented
 Responsive CSS that has been used.  (Hover features on buttons and text)
 
-It is simple app, but an app that allows each of us that worked on the project an opportunity to add more.  For example, there is an opportunity to add a many-to-many table on any given Event listing and the opportunity to eventually upload a “Profile Picture” to the User Page.
+It is simple app, but an app that allows each of us that worked on the project an opportunity to add more. For example, there is an opportunity to add a many-to-many table on any given Event listing and the opportunity to eventually upload a “Profile Picture” to the User Page.
